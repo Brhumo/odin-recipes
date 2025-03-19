@@ -1,1 +1,3 @@
-# odin-recipes Proyecto de práctica para aplicar los conocimientos de html aprendidos
+# odin-recipes 
+
+Proyecto de práctica para aplicar los conocimientos de html aprendidos
